@@ -1,5 +1,7 @@
 # 🎵 SoundWave 
+
 **Android Version 12 and 12+ May Crash in some [Check Out the other Repo for it](https://github.com/Rajat-Solankii/SoundWaveApp10)**
+
 ---
 **A Next-Generation, Personalized Music Experience for Android.**
 
