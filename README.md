@@ -1,4 +1,5 @@
 # 🎵 SoundWave 
+# **Android Version 12 and 12+ May Crash in some Check Out the other Repo for it**
 **A Next-Generation, Personalized Music Experience for Android.**
 
 SoundWave is a feature-rich music player designed to bring together all your favorite music sources into one beautiful, acrylic-themed interface. Whether it's streaming from global platforms or playing your local collection, SoundWave handles it with high-fidelity audio and AI-driven insights.
