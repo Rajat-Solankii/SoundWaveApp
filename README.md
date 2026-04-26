@@ -47,7 +47,7 @@ This repository hosts the `update.json` file used by the app's internal update c
 ---
 
 ## ❤️ Developed By
-**Rajat Solanki** 
+**Rajat** 
 *Enjoy your music experience with SoundWave!*
 
 ---
