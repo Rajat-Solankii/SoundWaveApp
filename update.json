@@ -1,7 +1,7 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0.0",
-  "updateUrl": "https://github.com/Rajat-Solankii/SoundWaveApp/releases/download/v1.0.0/SoundWave.apk",
+  "versionCode": 2,
+  "versionName": "1.1.0",
+  "updateUrl": "https://github.com/Rajat-Solankii/SoundWaveApp/releases/download/v1.1.0/SoundWave.apk",
   "changelog": "• Added Indian Artist Expansion\n• Integrated Update Checker",
   "isCritical": false
 }
