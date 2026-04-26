@@ -1,0 +1,7 @@
+{
+  "versionCode": 1,
+  "versionName": "1.0.0",
+  "updateUrl": "https://mega.nz/your-mega-link-here",
+  "changelog": "• Initial Release on GitHub\n• Added Indian Artist Expansion\n• Integrated Update Checker\n• Added Mega Download support",
+  "isCritical": false
+}
