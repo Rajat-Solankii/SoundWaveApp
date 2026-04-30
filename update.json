@@ -2,6 +2,6 @@
   "versionCode": 3,
   "versionName": "1.1.1",
   "updateUrl": "https://github.com/Rajat-Solankii/SoundWaveApp/releases/download/v1.1.1/SoundWave.apk",
-  "changelog": "1) Dynamic Language Playlists \n 2) Improved Home Experience\n 3) Faster Loading",
+  "changelog": "1) Dynamic Language Playlists \n 2) Improved Home Experience\n 3) Faster Loading \n \n Note: Please export your Playlists and clear Cache befor starting the App. Else it Can Crash!!",
   "isCritical": false
 }
