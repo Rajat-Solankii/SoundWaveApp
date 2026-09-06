@@ -1,8 +1,8 @@
 {
-  "versionCode": 3,
-  "versionName": "1.1.1",
-  "updateUrl": "https://github.com/Rajat-Solankii/SoundWaveApp/releases/download/v1.1.1/SoundWave.apk",
+  "versionCode": 4,
+  "versionName": "1.1.2",
+  "updateUrl": "https://github.com/Rajat-Solankii/SoundWaveApp/releases/download/v1.1.2/SoundWave.v.1.1.2.apk",
   "jamServerUrl": "https://fur-drop-arrivals-dns.trycloudflare.com/",
-  "changelog": "1) Jam Support: Listen with friends! \n 2) Private Rooms & Deep Linking \n 3) Dynamic Language Playlists \n 4) Improved Home Experience",
+  "changelog": "• Note: A new app instance will be created after installation. You can safely delete/uninstall the older app and use the new one.\n• Added playlist sharing & seeker UI refinements.\n• Fixed background playback bugs and improved stability.\n• More new features and fixes are coming soon!",
   "isCritical": false
 }
