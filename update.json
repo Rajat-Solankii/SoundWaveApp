@@ -3,6 +3,6 @@
   "versionName": "1.1.2",
   "updateUrl": "https://github.com/Rajat-Solankii/SoundWaveApp/releases/download/v1.1.2/SoundWave.v.1.1.2.apk",
   "jamServerUrl": "https://fur-drop-arrivals-dns.trycloudflare.com/",
-  "changelog": "• Note: A new app instance will be created after installation. You can safely delete/uninstall the older app and use the new one.\n• Added playlist sharing & seeker UI refinements.\n• Fixed background playback bugs and improved stability.\n• More new features and fixes are coming soon!",
+  "changelog": "• Note: A new app instance will be created after installation. You can safely delete/uninstall the older app and use the new one.\n• Added Song sharing & seeker UI refinements.\n• Fixed background playback bugs and improved stability.\n• More new features and fixes are coming soon!",
   "isCritical": false
 }
