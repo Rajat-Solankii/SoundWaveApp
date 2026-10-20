@@ -1,7 +1,7 @@
 {
   "versionCode": 6,
   "versionName": "1.1.4",
-  "updateUrl": "https://github.com/Rajat-Solankii/SoundWaveApp/releases/download/v1.1.4/Soundwave.apk",
+  "updateUrl": "https://github.com/Rajat-Solankii/SoundWaveApp/releases/download/v1.1.4/app-universal-release.apk",
   "jamServerUrl": "https://fur-drop-arrivals-dns.trycloudflare.com/",
   "changelog": "⚠️ FRESH INSTALL REQUIRED ⚠️\n• Added Live Telegram Admin & Security Controls\n• Added custom SoundWave logo to bottom navigation bar\n• Automated Bug & Crash Reporting\n• Support for Universal device architectures",
   "isCritical": true
