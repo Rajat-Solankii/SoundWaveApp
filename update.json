@@ -1,8 +1,8 @@
 {
-  "versionCode": 5,
-  "versionName": "1.1.3",
-  "updateUrl": "https://github.com/Rajat-Solankii/SoundWaveApp/releases/download/v1.1.3/Soundwave.apk",
+  "versionCode": 6,
+  "versionName": "1.1.4",
+  "updateUrl": "https://github.com/Rajat-Solankii/SoundWaveApp/releases/download/v1.1.4/Soundwave.apk",
   "jamServerUrl": "https://fur-drop-arrivals-dns.trycloudflare.com/",
-  "changelog": "• Ultra-fast JioSaavn music fetching & high quality playback\n• Adaptive 'Up Next' queue matching song language and mood with zero duplicates\n• High-speed JioSaavn audio downloads directly to /Download/SoundWave/\n• Custom Vercel web link sharing & in-app deep linking support\n• Optimized ExoPlayer buffer control for zero device heating",
-  "isCritical": false
+  "changelog": "⚠️ FRESH INSTALL REQUIRED ⚠️\n• Added Live Telegram Admin & Security Controls\n• Added custom SoundWave logo to bottom navigation bar\n• Automated Bug & Crash Reporting\n• Support for Universal device architectures",
+  "isCritical": true
 }
