@@ -1,8 +1,7 @@
 {
-  "versionCode": 7,
-  "versionName": "1.1.5",
-  "updateUrl": "https://github.com/Rajat-Solankii/SoundWaveApp/releases/download/v1.1.5/app-universal-release.apk",
-  "jamServerUrl": "https://fur-drop-arrivals-dns.trycloudflare.com/",
-  "changelog": "• Brand new SoundWave visualizer logo & adaptive app icons\n• New SoundWave icon integrated in navbar and top header\n• Fixed appearance settings crash and enhanced stability\n• Universal & architecture-specific APK support for smaller download size\n• Upgraded to v1.1.5 (versionCode 7)",
+  "versionCode": 8,
+  "versionName": "1.1.6",
+  "updateUrl": "https://github.com/Rajat-Solankii/SoundWaveApp/releases/download/v1.1.6/app-universal-release.apk",
+  "changelog": "• SoundWave Jam: Listen together in real-time with friends\n• Zero-setup guest joining: Friends can join without any API key or setup\n• Spotify-style secure 6-character room codes & QR code invites\n• Dual sync engines: Sub-millisecond Local Wi-Fi (LAN) & Cloud sync\n• Android 10 (API 29) compatibility fix and system stability improvements\n• Fixed queue deduplication and guest playback synchronization\n• Miniplayer motion and bottom sheet alignment polish",
   "isCritical": false
 }
