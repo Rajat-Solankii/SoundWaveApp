@@ -1,7 +1,7 @@
 {
-  "versionCode": 8,
-  "versionName": "1.1.6",
-  "updateUrl": "https://github.com/Rajat-Solankii/SoundWaveApp/releases/download/v1.1.6/app-universal-release.apk",
-  "changelog": "• SoundWave Jam: Listen together in real-time with friends\n• Zero-setup guest joining: Friends can join without any API key or setup\n• Spotify-style secure 6-character room codes & QR code invites\n• Dual sync engines: Sub-millisecond Local Wi-Fi (LAN) & Cloud sync\n• Android 10 (API 29) compatibility fix and system stability improvements\n• Fixed queue deduplication and guest playback synchronization\n• Miniplayer motion and bottom sheet alignment polish",
+  "versionCode": 9,
+  "versionName": "1.2.0",
+  "updateUrl": "https://github.com/Rajat-Solankii/SoundWaveApp/releases/download/v1.2.0/app-universal-release.apk",
+  "changelog": "• Smart audio focus auto-resumption: music automatically resumes when Instagram Reels or external videos pause or exit\n• Clean AudioTrack mixer reconstruction to eliminate silent playback stalls\n• Full compatibility with Android 17 & One UI 7 background AudioHardening restrictions\n• New Home screen update notification banner with 'Don't show again' option\n• Critical version update enforcement dialog for essential security & API updates\n• Zero-setup Collaborative Jam sessions with 6-char Crockford codes & low-latency sync\n• Preserved ReplayGain track volume across focus ducking and interruptions",
   "isCritical": false
 }
