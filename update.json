@@ -1,7 +1,7 @@
 {
   "versionCode": 10,
   "versionName": "1.2.1",
-  "updateUrl": "https://github.com/Rajat-Solankii/SoundWaveApp/releases/download/v1.2.1/app-universal-release.apk",
+  "updateUrl": "https://github.com/Rajat-Solankii/SoundWaveApp/releases/download/v1.2.1/SoundWave-universal-release.apk",
   "changelog": "• New Multi-Brand Phone UI Styles: Pixel and Nothing OS styles are now live with custom typography & dot-matrix indicators\n• 'Match my phone' auto-detection in Setup and Settings > Appearance > App style\n• Comprehensive dynamic corner tokens and brand-adaptive styled switches, dialogs & buttons\n• Resilient foreground service: fixed background termination and recent apps swipe-to-dismiss during paused playback\n• Jam background sync coordinator with faster low-latency Wi-Fi push synchronization",
   "isCritical": false
 }
