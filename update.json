@@ -1,7 +1,7 @@
 {
-  "versionCode": 10,
-  "versionName": "1.2.1",
-  "updateUrl": "https://github.com/Rajat-Solankii/SoundWaveApp/releases/download/v1.2.1/SoundWave-universal-release.apk",
-  "changelog": "• New Multi-Brand Phone UI Styles: Pixel and Nothing OS styles are now live with custom typography & dot-matrix indicators\n• 'Match my phone' auto-detection in Setup and Settings > Appearance > App style\n• Comprehensive dynamic corner tokens and brand-adaptive styled switches, dialogs & buttons\n• Resilient foreground service: fixed background termination and recent apps swipe-to-dismiss during paused playback\n• Jam background sync coordinator with faster low-latency Wi-Fi push synchronization",
+  "versionCode": 11,
+  "versionName": "1.2.2",
+  "updateUrl": "https://github.com/Rajat-Solankii/SoundWaveApp/releases/download/v1.2.2/SoundWave-universal-release.apk",
+  "changelog": "• Jam: joining by room code works again (Android 17 local network permission) and the Jam screen opens right after you join\n• Jam: 'Listen on host's device' now shows the host's song with a live seek bar, and play/pause controls the host\n• Jam: guests can play any song for everyone, plus Play next / Add to queue, with Spotify-style 'added by' avatars\n• Jam: tighter online sync and lower battery use\n• More accurate and faster Spotify playlist import\n• Play all with shuffle on now starts from the first song\n• Brand full player and loaders for each UI style, plus heat fixes\n• Cleaner Audio Format Details and About screens",
   "isCritical": false
 }
