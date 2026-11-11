@@ -1,7 +1,7 @@
 {
-  "versionCode": 11,
-  "versionName": "1.2.2",
-  "updateUrl": "https://github.com/Rajat-Solankii/SoundWaveApp/releases/download/v1.2.2/SoundWave-universal-release.apk",
-  "changelog": "• Jam: joining by room code works again (Android 17 local network permission) and the Jam screen opens right after you join\n• Jam: 'Listen on host's device' now shows the host's song with a live seek bar, and play/pause controls the host\n• Jam: guests can play any song for everyone, plus Play next / Add to queue, with Spotify-style 'added by' avatars\n• Jam: tighter online sync and lower battery use\n• More accurate and faster Spotify playlist import\n• Play all with shuffle on now starts from the first song\n• Brand full player and loaders for each UI style, plus heat fixes\n• Cleaner Audio Format Details and About screens",
+  "versionCode": 12,
+  "versionName": "1.2.3",
+  "updateUrl": "https://github.com/Rajat-Solankii/SoundWaveApp/releases/download/v1.2.3/SoundWave-universal-release.apk",
+  "changelog": "• Support: Buy Me a Coffee is now available under About → Donate for Support, next to UPI\n• SoundWave for Windows is out: Jam between your phone and your PC, on the same Wi-Fi or with an invite link\n• Includes everything from v1.2.2 (Jam fixes, faster Spotify import, brand UI styles)",
   "isCritical": false
 }
